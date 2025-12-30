@@ -30,10 +30,12 @@
 
 Vui lòng chọn phiên bản phù hợp với hệ điều hành của bạn:
 
+
 | Hệ Điều Hành | Link Tải Về |
 | :--- | :--- |
-| **Windows** (10/11) | [⬇️ Download Installer (.exe)](https://github.com/LyVanBong/zalo-archive-releases/releases/latest/download/Zalo.Archive.Pro.Setup.exe) |
-| **macOS** (Silicon/Intel)| [⬇️ Download App (.dmg)](https://github.com/LyVanBong/zalo-archive-releases/releases/latest/download/Zalo.Archive.Pro.dmg) |
+| **Windows** (10/11) | [⬇️ Tải Installer (.exe) mới nhất](https://github.com/LyVanBong/zalo-archive-releases/releases/latest) |
+| **macOS** (Silicon/Intel)| [⬇️ Tải App (.dmg) mới nhất](https://github.com/LyVanBong/zalo-archive-releases/releases/latest) |
+| **Linux** (64-bit) | [⬇️ Tải AppImage mới nhất](https://github.com/LyVanBong/zalo-archive-releases/releases/latest) |
 
 > *Lưu ý: Nếu Windows báo SmartScreen, vui lòng chọn **"More Info" -> "Run Anyway"** (Do ứng dụng nội bộ chưa mua chứng chỉ Microsoft).*
 
