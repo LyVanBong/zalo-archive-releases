@@ -51,9 +51,9 @@ Vui lòng chọn phiên bản phù hợp với hệ điều hành của bạn:
 
 Sản phẩm được phát triển và vận hành bởi **Softty.Net**.
 
-*   🌐 Website: [https://www.softty.net](https://www.softty.net)
+*   🌐 Website: [zalo.softty.net](https://zalo.softty.net/)
 *   📧 Email: support@softty.net
-*   💬 Zalo Support: [Chat ngay](https://zalo.me)
+*   💬 Zalo Support: [Chat ngay](https://zalo.me/2807481004293741054)
 
 ---
 *© 2025 Softty.Net Company Limited. All rights reserved.*
