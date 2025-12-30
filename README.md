@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.png" alt="Zalo Archive Pro Logo" width="120" height="120" />
+</div>
+
 # Zalo Archive Pro 🛡️📱
 
 > **Giải pháp tối ưu để Lưu trữ tin nhắn & Quản lý đa tài khoản Zalo chuyên nghiệp.**
